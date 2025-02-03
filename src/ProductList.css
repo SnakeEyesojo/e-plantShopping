@@ -250,3 +250,12 @@ body {
         text-align: center; /* Align text to the center */
       }
   }
+
+  .cart-quantity {
+    background-color: rgb(159, 230, 138);
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 5px 10px;
+    margin-left: 5px;
+}
